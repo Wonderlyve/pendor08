@@ -54,7 +54,7 @@ const SideMenu = ({ open, onOpenChange }: SideMenuProps) => {
           <SheetHeader className="p-6 pb-4 bg-gradient-to-r from-green-500 to-green-600 text-white">
             <div className="flex items-center space-x-3">
               <img 
-                src="/lovable-uploads/35ad5651-d83e-4704-9851-61f3ad9fb0c3.png" 
+                src="/launch_icon.png" 
                 alt="PENDOR Logo" 
                 className="w-12 h-12 rounded-full bg-white/20 p-1"
               />

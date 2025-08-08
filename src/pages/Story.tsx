@@ -250,7 +250,7 @@ const Story = () => {
                 </Button>
                 <div className="flex items-center space-x-2">
                   <img 
-                    src="/lovable-uploads/35ad5651-d83e-4704-9851-61f3ad9fb0c3.png" 
+                    src="/launch_icon.png" 
                     alt="PENDOR Logo" 
                     className="w-8 h-8 rounded-full"
                   />
